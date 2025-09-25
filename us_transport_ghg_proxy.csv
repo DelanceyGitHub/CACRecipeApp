@@ -1,0 +1,14 @@
+item,category,region,kgco2e_per_mile,boundary,source,source_url,notes
+Car – gasoline (avg),Passenger car,US,0.404,tailpipe,US EPA,https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle,Average passenger vehicle ~404 g/mi
+Car – hybrid (typical),Passenger car,US,0.28,well-to-wheel,EPA/DOE estimates,https://www.fueleconomy.gov,Approximate; depends on model
+Car – battery EV (US avg grid),Passenger car,US,0.12,well-to-wheel,EPA eGRID + DOE,https://www.epa.gov/egrid,"Assumes ~0.3 kWh/mi, 0.4 kg/kWh grid factor"
+Motorcycle (avg),Motorcycle,US,0.22,tailpipe,EPA MOVES,https://www.epa.gov/moves,Light-duty motorcycles
+City bus (avg passenger),Bus,US,0.14,well-to-wheel,DEFRA 2024,https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,Depends on occupancy; this is per passenger-mile
+Coach/Intercity bus,Bus,US/UK,0.09,well-to-wheel,DEFRA 2024,https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,Intercity coach with average occupancy
+Passenger rail (avg),Rail,US,0.1,well-to-wheel,Amtrak/EIA,https://www.energy.gov,Varies by route and fuel (diesel/electric)
+Subway/metro,Rail,US,0.08,well-to-wheel,DEFRA 2024,https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,Urban rapid transit
+Domestic flight (economy),Air travel,US,0.3,well-to-wheel,DEFRA 2024,https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,"Short-haul economy, includes non-CO2 effects if RF multiplier applied"
+Long-haul flight (economy),Air travel,US,0.18,well-to-wheel,DEFRA 2024,https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,Long-haul (>3700 km) economy passenger
+Long-haul flight (business),Air travel,US,0.54,well-to-wheel,DEFRA 2024,https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,Business class ~3× economy footprint
+"Heavy goods vehicle (rigid, avg)",Freight – road,US/UK,0.65,per ton-mile,DEFRA 2024,https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,"Rigid truck avg, per ton-mile"
+Container ship (avg cargo),Freight – shipping,Global,0.01,per ton-mile,ICCT/IMO,https://theicct.org,"Large container ship, per ton-mile"

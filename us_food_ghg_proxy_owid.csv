@@ -1,0 +1,49 @@
+item,category,region,kgco2e_per_kg,boundary,source,source_url,notes
+Beef (beef herd),Red meat,US (proxy),99.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,High due to enteric methane + land use
+Beef (dairy herd),Red meat,US (proxy),33.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Lamb & mutton,Red meat,US (proxy),40.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Pork (pig meat),Pork,US (proxy),12.3,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Poultry (chicken/turkey),Poultry,US (proxy),9.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Eggs,Eggs,US (proxy),4.5,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Milk (cow),Dairy,US (proxy),3.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Cheese,Dairy,US (proxy),23.9,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Yogurt,Dairy,US (proxy),2.2,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/environmental-impacts-of-food,Approximate dairy product average
+Butter,Dairy,US (proxy),11.9,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/environmental-impacts-of-food,High fat-content dairy
+Shrimp (farmed),Seafood,US (proxy),26.0,cradle-to-retail,OWID seafood meta-analysis,https://ourworldindata.org/grapher/ghg-emissions-seafood,
+Salmon (farmed),Seafood,US (proxy),6.0,cradle-to-retail,OWID seafood meta-analysis,https://ourworldindata.org/grapher/ghg-emissions-seafood,
+Tuna (wild-caught),Seafood,US (proxy),6.0,cradle-to-retail,OWID seafood meta-analysis,https://ourworldindata.org/grapher/ghg-emissions-seafood,Pelagic longline/purse seine varies
+Mussels (farmed),Seafood,US (proxy),2.0,cradle-to-retail,OWID seafood meta-analysis,https://ourworldindata.org/grapher/ghg-emissions-seafood,
+Whitefish (wild),Seafood,US (proxy),5.0,cradle-to-retail,OWID seafood meta-analysis,https://ourworldindata.org/grapher/ghg-emissions-seafood,
+Rice,Grains,US (proxy),3.8,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,Methane from paddies
+Wheat flour / bread,Grains,US (proxy),1.4,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Pasta (dry),Grains,US (proxy),1.8,cradle-to-retail,OWID (derived from wheat),https://ourworldindata.org/environmental-impacts-of-food,Estimate based on wheat processing
+Maize (cornmeal),Grains,US (proxy),1.2,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Oats,Grains,US (proxy),1.0,cradle-to-retail,OWID (cereals avg.),https://ourworldindata.org/environmental-impacts-of-food,
+Potatoes,Starchy veg,US (proxy),0.5,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Tofu (soy),Legumes,US (proxy),3.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Beans (avg),Legumes,US (proxy),1.1,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Lentils,Legumes,US (proxy),0.9,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Peas,Legumes,US (proxy),1.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Apples,Fruit,US (proxy),0.4,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Bananas,Fruit,US (proxy),0.9,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Citrus (avg),Fruit,US (proxy),0.5,cradle-to-retail,OWID (fruit avg.),https://ourworldindata.org/environmental-impacts-of-food,
+Berries (avg),Fruit,US (proxy),1.4,cradle-to-retail,OWID (fruit range),https://ourworldindata.org/environmental-impacts-of-food,
+Tomatoes,Vegetables,US (proxy),2.1,cradle-to-retail,OWID (range incl. heated greenhouses),https://ourworldindata.org/environmental-impacts-of-food,Season & method sensitive
+Root vegetables (avg),Vegetables,US (proxy),0.3,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Leafy greens (avg),Vegetables,US (proxy),0.9,cradle-to-retail,OWID (veg range),https://ourworldindata.org/environmental-impacts-of-food,
+Brassicas (broccoli/cauliflower),Vegetables,US (proxy),0.7,cradle-to-retail,OWID (veg range),https://ourworldindata.org/environmental-impacts-of-food,
+Nuts (avg),Nuts & seeds,US (proxy),0.4,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,Water impacts can be high for some nuts
+Peanut butter,Nuts & seeds,US (proxy),2.4,cradle-to-retail,OWID (derived),https://ourworldindata.org/environmental-impacts-of-food,Processing adds energy; approximate
+Sunflower seeds,Nuts & seeds,US (proxy),1.3,cradle-to-retail,OWID (oilseed avg.),https://ourworldindata.org/environmental-impacts-of-food,
+Olive oil,Oils & fats,US (proxy),6.0,cradle-to-retail,OWID (oils chart),https://ourworldindata.org/environmental-impacts-of-food,
+Canola/rapeseed oil,Oils & fats,US (proxy),3.4,cradle-to-retail,OWID (oils chart),https://ourworldindata.org/environmental-impacts-of-food,
+Sunflower oil,Oils & fats,US (proxy),3.8,cradle-to-retail,OWID (oils chart),https://ourworldindata.org/environmental-impacts-of-food,
+Palm oil,Oils & fats,US (proxy),7.5,cradle-to-retail,OWID (oils chart incl. land use),https://ourworldindata.org/environmental-impacts-of-food,
+Dark chocolate,Sweets,US (proxy),47.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,Cocoa farming + processing
+Sugar (granulated),Sweets,US (proxy),0.5,cradle-to-retail,OWID (sugar crops),https://ourworldindata.org/environmental-impacts-of-food,
+Coffee (beans),Beverages,US (proxy),29.0,cradle-to-retail,OWID – Poore & Nemecek (2018),https://ourworldindata.org/grapher/ghg-per-kg-poore,
+Tea (dried),Beverages,US (proxy),1.9,cradle-to-retail,OWID (beverages),https://ourworldindata.org/environmental-impacts-of-food,
+Orange juice (from concentrate),Beverages,US (proxy),1.4,cradle-to-retail,OWID (fruit juices approx.),https://ourworldindata.org/environmental-impacts-of-food,
+Soy milk,Plant milks,US (proxy),0.9,cradle-to-retail,OWID/assorted LCAs,https://ourworldindata.org/environmental-impacts-of-food,Approximate; processing & packaging matter
+Oat milk,Plant milks,US (proxy),0.9,cradle-to-retail,OWID/assorted LCAs,https://ourworldindata.org/environmental-impacts-of-food,
+Almond milk,Plant milks,US (proxy),1.2,cradle-to-retail,OWID/assorted LCAs,https://ourworldindata.org/environmental-impacts-of-food,Water impacts high; GHG low-moderate
